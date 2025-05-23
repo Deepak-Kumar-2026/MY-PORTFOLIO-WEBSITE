@@ -1,28 +1,3 @@
-# Node modules and logs
-node_modules/
-npm-debug.log
-yarn-debug.log
-yarn-error.log
+/node_modules
 
-# Environment variables (Sensitive info like DB passwords, API keys)
 .env
-
-# OS-specific files
-.DS_Store
-Thumbs.db
-
-# IDE/editor config (optional, based on your tools)
-.vscode/
-.idea/
-
-# Build output (if any)
-dist/
-build/
-
-# Optional: local database/data folders
-data/
-
-
-
-
-

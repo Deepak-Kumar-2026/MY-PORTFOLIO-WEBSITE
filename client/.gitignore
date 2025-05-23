@@ -25,3 +25,21 @@ dist-ssr
 
 # env
 .env
+/node_modules
+/.pnpm
+.pnp.js
+.yarn/install-state.gz
+
+/coverage
+
+/.next/
+/out/
+
+/build
+
+.DS_Store
+*.pep
+
+
+.env*.local
+
