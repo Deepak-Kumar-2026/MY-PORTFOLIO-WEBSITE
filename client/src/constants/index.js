@@ -264,7 +264,7 @@ export const workExperiences = [
     pos: 'Science-Stream',
     duration: '2019 - 2020',
     title: "I completed my Secondary Education (10th grade) from DP+ High School, Hussaini, under the Bihar School Examination Board (BSEB). I secured 70% marks, which provided a strong academic foundation and helped me build essential skills in mathematics and science. This stage of my education played a vital role in shaping my interest in technology and inspired me to pursue higher studies in the field of Computer Science and Engineering.",
-    icon: '/assets/framer.svg',
+    icon: '/assets/Bihar-board-logo-transparent.png',
     animation: 'victory',
   },
   {
@@ -273,7 +273,7 @@ export const workExperiences = [
     pos: 'Science Stream',
     duration: '2020 - 2022',
     title: "I completed my Senior Secondary Education (12th grade) in the Science stream under the Bihar School Examination Board (BSEB), Motihari. I secured 69.2% marks, which helped strengthen my understanding of core subjects like Physics, Chemistry, and Mathematics. This phase of education deepened my analytical and problem-solving skills and further solidified my passion for technology, motivating me to pursue a Bachelor's degree in Computer Science and Engineering.",
-    icon: '/assets/figma.svg',
+    icon: '/assets/Bihar-board-logo-transparent.png',
     animation: 'clapping',
   },
   {
