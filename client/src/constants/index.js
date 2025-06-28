@@ -282,7 +282,7 @@ export const workExperiences = [
     pos: 'Presently Pursuing',
     duration: '2022- 2026',
     title: "I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering from Baba Banda Singh Bahadur Engineering College, affiliated with Punjab Technical University (PTU). I have completed 5 semesters with a current SGPA of 7.00. Throughout my academic journey, I have gained a strong foundation in core subjects such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. I am also an active learner, involved in technical clubs and hackathons, where I apply my knowledge to practical projects and real-world problem-solving.",
-    icon: '/assets/notion.svg',
+    icon: '/assets/college.png',
     animation: 'salute',
   },
 ];
